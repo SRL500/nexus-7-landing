@@ -3,10 +3,10 @@
 A responsive, dark-themed cyberpunk landing page built as part of TechFest IITB Campus Ambassador Task 1 (Web Development).
 
 ## 🔗 Live Demo
-<!-- Add your deployed link here (GitHub Pages / Vercel / Netlify) -->
+https://srl500.github.io/nexus-7-landing/
 
 ## 🎥 Demo Recording
-<!-- Add your Google Drive link here -->
+https://drive.google.com/file/d/1AeJEYE6JrNHBK0-c-4ft_IvgBIqjhG4h/view?usp=sharing
 
 ---
 
