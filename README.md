@@ -47,21 +47,13 @@ nexus-7-landing/
 ## Running Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/nexus-7-landing.git
+git clone https://github.com/SRL500/nexus-7-landing.git
 cd nexus-7-landing
 # Open index.html in your browser — no build step needed
 ```
 
 Or with VS Code Live Server: right-click `index.html` → **Open with Live Server**
 
----
-
-## Deployment (GitHub Pages)
-
-1. Push to GitHub
-2. Go to repo Settings → Pages
-3. Source: `main` branch, `/ (root)`
-4. Your site will be live at `https://YOUR_USERNAME.github.io/nexus-7-landing`
 
 ---
 
